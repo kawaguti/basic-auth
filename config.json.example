@@ -1,0 +1,7 @@
+{
+    "credentials" : {
+
+        "metaData" : "https://login.microsoftonline.com/0123045/v2.0/.well-known/openid-configuration",
+        "clientID" : "7263623e-XXXX-XXXX-XXXX-XXXXXXX"
+    }
+}
